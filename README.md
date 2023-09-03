@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rotgruengelb</h1>
 <h3 align="center">A developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rotgruengelb&label=Profile%20views&color=400040&style=flat" alt="rotgruengelb" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rotgruengelb&label=Profile%20views&color=400040&style=flat" alt="rotgruengelb" />  <a href="https://wakatime.com/@a633e335-8c09-4654-81a4-4a9e5b0ee391"><img src="https://wakatime.com/badge/user/a633e335-8c09-4654-81a4-4a9e5b0ee391.svg" alt="Total time coded since Sep 3 2023" /></a></p> 
 
 - 🔭 I’m currently working on [einfach](https://github.com/rotgruengelb/einfach)
 
