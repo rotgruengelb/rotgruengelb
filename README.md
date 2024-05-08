@@ -64,6 +64,11 @@
 
 ---
 
+### Verify my identity: 
+[Find my Main Public PGP Key◥](https://github.com/rotgruengelb/public-keys/tree/main/rotgruengelb_0xFA189AE9)
+
+---
+
 ### Some Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rotgruengelb&show_icons=true&theme=dark&locale=en" alt="rotgruengelb" /></p>
