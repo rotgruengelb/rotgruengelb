@@ -65,7 +65,7 @@
 ---
 
 ### Verify my identity: 
-[Find my Main Public PGP Key◥](https://github.com/rotgruengelb/public-keys/tree/main/rotgruengelb_0xFA189AE9)
+[Find my Main Public PGP Key ◥](https://github.com/rotgruengelb/public-keys/tree/main/rotgruengelb_0xFA189AE9)
 
 ---
 
