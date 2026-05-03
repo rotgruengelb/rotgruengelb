@@ -10,5 +10,5 @@
   Software Developer • Video Games and Content Creation Person • Minecraft Mod, data- and resourcepack Developer
 </p>
 <p align="center">
-  <a href="https://youtube.com/@rotgruengelb">YouTube</a> • <a href="https://rotgruengelb.bsky.social">Bluesky</a> • <a href="https://modrinth.com/user/rotgruengelb">Modrinth</a> • <a href="https://github.com/rotgruengelb/public-keys">PGP Keys</a>
+  <a href="https://youtube.com/@rotgruengelb">YouTube</a> • <a href="https://rotgruengelb.bsky.social">Bluesky</a> • <a href="https://codeberg.org/rotgruengelb">Codeberg</a> • <a href="https://github.com/rotgruengelb">GitHub</a> • <a href="https://modrinth.com/user/rotgruengelb">Modrinth</a> • <a href="https://github.com/rotgruengelb/public-keys">PGP Keys</a>
 </p>
